@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Gabriel%20Angelim&color=0077B5&logoColor=white&labelColor=303030&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
   <img width="3" />
-  <a href="gabriel_angelim@outlook.com" target="_blank">
+  <a href="mailto:gabriel_angelim@outlook.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=GABRIEL_ANGELIM@OUTLOOK.COM&color=0078D4&logoColor=white&labelColor=303030&style=for-the-badge" height="30" alt="microsoft-outlook logo"  />
   </a>
 </div>
